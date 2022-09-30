@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "_site/assets/imgs/BGs/BGtile-2.png"
+            "file": "_site/assets/imgs/BGs/BGtile-11.png"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/assets/imgs/BGs/BGtile-2.png",
+                "file": "_site/assets/imgs/BGs/BGtile-11.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/assets/imgs/BGs/BGtile-2.png",
+                "file": "_site/assets/imgs/BGs/BGtile-11.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/assets/imgs/BGs/BGtile-2.png"
+                "file": "_site/assets/imgs/BGs/BGtile-11.png"
               }
             }
           }
@@ -128,6 +128,7 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_daily/2022-09-30.md",
     "_site/assets/imgs/BGs/BGtile-1.png",
     "_site/assets/imgs/BGs/BGtile-2.png",
     "_site/assets/imgs/BGs/BGtile-28.png",
@@ -136,7 +137,6 @@
     "images/tumblr_1a85f3ef3c50da275392acfe1b8dd6ae_2dd9136a_1280.png",
     "index.md",
     "images/Untitled.md",
-    "images/study-monk.png",
-    "images/urbit-sigils.png"
+    "images/study-monk.png"
   ]
 }
