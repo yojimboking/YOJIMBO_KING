@@ -7,12 +7,12 @@
 
 
 //Uncomment one of the following lines to choose a theme:
-@import "../_sass/yotsuba";
+//@import "../_sass/yotsuba";
 //@import "../_sass/edith";
 //@import "../_sass/web1";
 //@import "../_sass/vellum";
 //@import "../_sass/paper";
-//@import "../_sass/heaven";
+@import "../_sass/heaven";
 //@import "../_sass/gemini"; // Doesn't work yet
 
 
@@ -27,7 +27,7 @@ Uncomment one of the below lines to override the background color/image of your 
 
 
 
-/$bg-image: url(assets/imgs/BGs/sunset.png);
+$bg-image: url(assets/imgs/BGs/sunset.png);
 
 //$bg-image: url(assets/imgs/BGs/bgtile-2.png);
 
