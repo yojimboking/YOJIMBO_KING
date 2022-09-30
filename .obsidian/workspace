@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "15449fa6e4475b4d",
+        "id": "3a61df377896c180",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_wiki/usufruct.md",
+            "file": "_daily/2022-09-30.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "styles.",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/usufruct.md",
+                "file": "_daily/2022-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/usufruct.md",
+                "file": "_daily/2022-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/usufruct.md"
+                "file": "_daily/2022-09-30.md"
               }
             }
           }
@@ -128,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15449fa6e4475b4d",
+  "active": "3a61df377896c180",
   "lastOpenFiles": [
+    "_daily/2022-09-30.md",
+    "_wiki/usufruct.md",
     "_wiki/L-Dopa.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/The Exocore Workflow.md",
@@ -137,8 +139,6 @@
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Jade post.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_daily/2022-09-30.md",
-    "_daily/2022-05-11.md",
-    "_articles/Writing with Exocore Syntax.md"
+    "_daily/2022-05-11.md"
   ]
 }
