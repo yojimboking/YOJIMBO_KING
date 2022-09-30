@@ -1,4 +1,5 @@
 ---
+published: True
 subtitle:
 topic: Computers
 date: 2022-02-04
@@ -44,7 +45,7 @@ Check out the backlinks section at the bottom of any post, and you'll find a lis
 
 The below text is embedded, using the same wikilink syntax as normal, but with an `!` prepended. The full text of the linked note will be included. For example, here is an example of embedded note syntax:
 
-![[jade-post]]
+![[Jade post]]
 
 ## External Hyperlinks
 

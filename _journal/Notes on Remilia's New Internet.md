@@ -1,4 +1,5 @@
 ---
+published: True
 date: 26 jan 2022
 tags: computers remilia
 ---

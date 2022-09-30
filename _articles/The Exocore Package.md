@@ -1,4 +1,5 @@
 ---
+published: True
 subtitle:
 topic: Computers
 date: 2021-01-27
