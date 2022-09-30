@@ -7,9 +7,11 @@
         "id": "15449fa6e4475b4d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "_site/assets/imgs/BGs/BGtile-11.png"
+            "file": "_articles/Configure Exocore for Personal Use.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "styles.",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/assets/imgs/BGs/BGtile-11.png",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/assets/imgs/BGs/BGtile-11.png",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/assets/imgs/BGs/BGtile-11.png"
+                "file": "_articles/Configure Exocore for Personal Use.md"
               }
             }
           }
@@ -126,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "15449fa6e4475b4d",
   "lastOpenFiles": [
-    "_daily/2022-09-30.md",
-    "_site/assets/imgs/BGs/BGtile-1.png",
-    "_site/assets/imgs/BGs/BGtile-2.png",
-    "_site/assets/imgs/BGs/BGtile-28.png",
-    "_site/assets/imgs/BGs/BGtile-30.png",
+    "_articles/Check. Check.md",
+    "_articles/CHECK.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "assets/imgs/BGs/sunset.png.png",
+    "assets/imgs/9a9acff343d733f137553b891f6f2b0a.jpg",
+    "assets/imgs/9a9acff343d733f137553b891f6f2b0a 1.jpg",
     "images/tumblr_1a85f3ef3c50da275392acfe1b8dd6ae_2dd9136a_1280 1.png",
-    "images/tumblr_1a85f3ef3c50da275392acfe1b8dd6ae_2dd9136a_1280.png",
-    "index.md",
-    "images/Untitled.md",
-    "images/study-monk.png"
+    "_site/assets/imgs/BGs/BGtile-29.png",
+    "_site/assets/imgs/BGs/BGtile-30.png",
+    "_site/assets/imgs/BGs/BGtile-11.png"
   ]
 }
