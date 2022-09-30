@@ -130,15 +130,15 @@
   },
   "active": "15449fa6e4475b4d",
   "lastOpenFiles": [
-    "_daily/2022-09-30.md",
-    "_articles/Check. Check.md",
-    "_daily/2022-05-11.md",
     "_articles/Configure Exocore for Personal Use.md",
-    "_articles/Set up a Custom Domain.md",
+    "_articles/Check. Check.md",
     "_articles/Writing with Exocore Syntax.md",
+    "_daily/2022-09-30.md",
     "_articles/Using your Exocore.md",
-    "_articles/Underpinnings of the Exocore.md",
     "_articles/Exocore Installation Instructions.md",
-    "index.md"
+    "_articles/The Exocore Package.md",
+    "_daily/2022-05-11.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/Underpinnings of the Exocore.md"
   ]
 }

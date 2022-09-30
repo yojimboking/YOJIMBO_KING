@@ -7,4 +7,4 @@ tags:
 
 # Check. Check
 ## Check one. check one.
-* [Sibilance. Sibilance.](https://www.youtube.com/watch?v=EPVL45WkH84&ab_channel=madfoot/)
+[Sibilance. Sibilance.](https://www.youtube.com/watch?v=EPVL45WkH84&ab_channel=madfoot/)
