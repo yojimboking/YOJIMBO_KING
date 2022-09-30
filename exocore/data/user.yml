@@ -7,7 +7,8 @@ user_name: HUMAN EMOTIONS
 
 
 # The URL that your name will point to ('/' means home):
-profile_link: /https://twitter.com/YOJIMBO_KING
+profile_link: https://jimbocore.netlify.app/
+
 
 
 # The user image displayed on your profile card. You can edit this by dropping an image with the name 'pfp.png' into 'assets/imgs', or editing the path below:
@@ -16,12 +17,11 @@ profile_pic: assets/imgs/9a9acff343d733f137553b891f6f2b0a.jpg
 
 
 # The header that will be displayed on your homepage:
-welcome_header: Welcome to the Exocore
+welcome_header: "Greeting well-met fellow, hail!"
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: A navigable, organised hypertext personal knowledge base
-
+welcome_subtitle: 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
 

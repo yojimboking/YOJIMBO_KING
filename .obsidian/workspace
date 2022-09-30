@@ -7,8 +7,10 @@
         "id": "9f4eecebd9677ee8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "assets/imgs/bg-yotsuba.gif"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/imgs/bg-yotsuba.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/imgs/bg-yotsuba.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/imgs/bg-yotsuba.gif"
+              }
             }
           }
         ]
@@ -120,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "9f4eecebd9677ee8",
   "lastOpenFiles": [
-    "assets/imgs/icons/png.md",
-    "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
-    "assets/imgs/pfp.png",
+    "assets/imgs/card.png",
+    "assets/imgs/bg-yotsuba.gif",
+    "assets/imgs/bg-vellum.jpg",
+    "assets/imgs/bg-article-vellum.jpg",
+    "assets/imgs/9a9acff343d733f137553b891f6f2b0a 1.jpg",
+    "assets/imgs/9a9acff343d733f137553b891f6f2b0a.jpg",
     "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-09-30.md",
-    "readme.md",
-    "index.md",
-    "_journal/Exocore Feedback.md",
-    "_journal/Grip Training.md",
-    "_journal/Kariyushi Wear.md"
+    "assets/imgs/BGs/BGtile-1.png",
+    "assets/imgs/BGs/BGtile-2.png",
+    "assets/imgs/BGs/BGtile-3.png"
   ]
 }
