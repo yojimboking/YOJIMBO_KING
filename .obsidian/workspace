@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/Check. Check.md",
+            "file": "_daily/2022-09-30.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Check. Check.md",
+                "file": "_daily/2022-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Check. Check.md",
+                "file": "_daily/2022-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Check. Check.md"
+                "file": "_daily/2022-09-30.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "15449fa6e4475b4d",
   "lastOpenFiles": [
-    "_daily/2022-09-30.md",
     "_articles/Check. Check.md",
+    "_daily/2022-09-30.md",
     "_articles/Set up a Custom Domain.md",
     "_daily/2022-05-11.md",
     "_articles/Writing with Exocore Syntax.md",
