@@ -7,11 +7,9 @@
         "id": "15449fa6e4475b4d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "_articles/Configure Exocore for Personal Use.md",
-            "mode": "source",
-            "source": true
+            "file": "assets/imgs/BGs/sunset.png.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "assets/imgs/BGs/sunset.png.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "assets/imgs/BGs/sunset.png.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md"
+                "file": "assets/imgs/BGs/sunset.png.png"
               }
             }
           }
@@ -130,6 +128,7 @@
   },
   "active": "15449fa6e4475b4d",
   "lastOpenFiles": [
+    "_articles/Configure Exocore for Personal Use.md",
     "_articles/Check. Check.md",
     "_articles/CHECK.md",
     "_articles/Writing with Exocore Syntax.md",
@@ -138,7 +137,6 @@
     "assets/imgs/9a9acff343d733f137553b891f6f2b0a 1.jpg",
     "images/tumblr_1a85f3ef3c50da275392acfe1b8dd6ae_2dd9136a_1280 1.png",
     "_site/assets/imgs/BGs/BGtile-29.png",
-    "_site/assets/imgs/BGs/BGtile-30.png",
-    "_site/assets/imgs/BGs/BGtile-11.png"
+    "_site/assets/imgs/BGs/BGtile-30.png"
   ]
 }
