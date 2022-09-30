@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "53b1fc989dfd5ec8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_daily/2022-09-30.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "15449fa6e4475b4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_daily/2022-05-11.md",
+            "file": "_daily/2022-09-30.md",
             "mode": "source",
             "source": true
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53b1fc989dfd5ec8",
+  "active": "15449fa6e4475b4d",
   "lastOpenFiles": [
     "_daily/2022-05-11.md",
     "_daily/2022-09-30.md",
-    "_articles/{{dateYYYY-MM-DD}}.md",
+    "_articles/Writing with Exocore Syntax.md",
     "_articles/Using your Exocore.md",
-    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Underpinnings of the Exocore.md",
     "_articles/Set up a Custom Domain.md",
-    "index.md",
-    "Conflict files.md",
-    "_wiki/usufruct.md",
-    "_wiki/L-Dopa.md"
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/{{dateYYYY-MM-DD}}.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "index.md"
   ]
 }
