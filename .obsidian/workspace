@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg"
+            "file": "_site/assets/imgs/BGs/BGtile-2.png"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "background",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
+                "file": "_site/assets/imgs/BGs/BGtile-2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
+                "file": "_site/assets/imgs/BGs/BGtile-2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg"
+                "file": "_site/assets/imgs/BGs/BGtile-2.png"
               }
             }
           }
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15449fa6e4475b4d",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_site/assets/imgs/BGs/BGtile-1.png",
+    "_site/assets/imgs/BGs/BGtile-2.png",
+    "_site/assets/imgs/BGs/BGtile-28.png",
+    "_site/assets/imgs/BGs/BGtile-30.png",
+    "images/tumblr_1a85f3ef3c50da275392acfe1b8dd6ae_2dd9136a_1280 1.png",
+    "images/tumblr_1a85f3ef3c50da275392acfe1b8dd6ae_2dd9136a_1280.png",
+    "index.md",
     "images/Untitled.md",
-    "images/water.png",
-    "images/Screen Shot 2022-02-10 at 3.13.34 pm.png",
-    "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
-    "images/roman-room.jpg",
-    "images/IMG_3869.JPG",
-    "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
-    "images/guilded_image_08c671f803737fb4add252910ada0f7a.png",
-    "images/grid.png",
-    "images/girl-online.png"
+    "images/study-monk.png",
+    "images/urbit-sigils.png"
   ]
 }
