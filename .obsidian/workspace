@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_articles/{{dateYYYY-MM-DD}}.md",
+            "file": "_daily/2022-09-30.md",
             "mode": "source",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_daily/2022-09-30.md",
+            "file": "_daily/2022-05-11.md",
             "mode": "source",
             "source": true
           }
@@ -140,11 +140,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15449fa6e4475b4d",
+  "active": "53b1fc989dfd5ec8",
   "lastOpenFiles": [
-    "_articles/{{dateYYYY-MM-DD}}.md",
-    "_daily/2022-09-30.md",
     "_daily/2022-05-11.md",
+    "_daily/2022-09-30.md",
+    "_articles/{{dateYYYY-MM-DD}}.md",
     "_articles/Using your Exocore.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Set up a Custom Domain.md",
